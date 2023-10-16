@@ -11,7 +11,7 @@ The necessary dependencies for this analysis include:
 import pandas as pd
 from pathlib import Path
 ```
-#terminal
+##terminal
 pip install pandas
 pip install pathlib
 
